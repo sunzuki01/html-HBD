@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+    text-align: center;
+    border: 2px solid whitesmoke;
+    text-transform: uppercase;
+}
+
+img {
+    width: 30%;
+    border: 2px solid wheat;
+}
+h1 {
+    color:aliceblue
+}
